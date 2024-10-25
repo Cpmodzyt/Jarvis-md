@@ -3,7 +3,7 @@ EDIT THIS STUFF OR ADD SESSION AND USE SETVAR TO EDIT
 */
 const config = `
 HANDLERS=.
-SESSION_ID="Jarvis_6f9a_7cc5_6dde_0ed8_fbb4_af8b_1600_37c2"
+SESSION_ID=Jarvis_6f9a_7cc5_6dde_0ed8_fbb4_af8b_1600_37c2
 SUDO=94773789258
 WORK_TYPE=public
 `;
